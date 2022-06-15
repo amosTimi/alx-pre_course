@@ -1,2 +1,2 @@
-a new REAME file
+a new README file
 new line added
